@@ -1,0 +1,58 @@
+Saturn Loader, Ver. version 3.0.8, 12/07/02
+
+
+Output Module:
+Module=grafico3.o
+  Start=00000 End=00218 Length=00219   Symbols=  28 References=  33
+  Date=Fri Sep 19 23:01:43 2008   Title=
+
+
+Source modules:
+Module=grafico3.o
+  Start=00000 End=00218 Length=00219
+  Date=Fri Sep 19 23:01:43 2008   Title=                                        Fri Sep 19 23:01:43 2008
+
+Saturn Cross Reference Listing
+
+ABUFF                            *       - 00014
+ADD                              * 001B5 - 001AF
+
+BUCLE                            * 000A6 - 000BB
+
+CINRTN                           *       - 0014C
+CLOSEUART                        *       - 00005 0020F
+CUENTA                           * 001A8 - 001FD
+CUENTALINE                       * 001F9 - 001D6
+
+DECREMENTO                       * 0011A - 0010E 0012F
+DESPLAZAMIENTO                   * 00183 - 0013D
+DOBINT                           *       - 00019 00023
+DOCODE                           *       - 00037
+DOCOL                            *       - 00000
+DROP                             *       - 00032 00200
+
+GETPTRLOOP                       *       - 00161
+
+INCREMENTO                       * 00168 - 00112 00180
+
+LINEA                            * 00131 - 00117
+LOOP1                            * 0014A -
+
+MAKEGROB                         *       - 0002D
+MUL#                             *       - 000F8
+
+ON                               * 00147 - 000A8
+
+PRINCIPAL                        * 00066 - 00143
+
+RECLAIMDISP                      *       - 0000A 0020A
+REINT                            * 00166 - 0015C
+
+SAVPTR                           *       - 00043
+SEMI                             *       - 00214
+SIGUIENTE                        * 001D9 - 001B2
+
+TURNMENUOFF                      *       - 0000F
+TURNMENUON                       *       - 00205
+
+/SLOAD:  End of Saturn Loader Execution

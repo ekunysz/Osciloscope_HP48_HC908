@@ -1,0 +1,63 @@
+Saturn Loader, Ver. version 3.0.8, 12/07/02
+
+
+Output Module:
+Module=cntinua.o
+  Start=00000 End=0036E Length=0036F   Symbols=  32 References=  37
+  Date=Mon Aug 20 23:39:33 2007   Title=
+
+
+Source modules:
+Module=continua.o
+  Start=00000 End=0036E Length=0036F
+  Date=Mon Aug 20 23:39:33 2007   Title=                                        Mon Aug 20 23:39:33 2007
+
+Saturn Cross Reference Listing
+
+ABUFF                            *       - 00014
+ADD                              * 0030B - 00305
+
+BUCLE                            * 001FC - 00211
+
+CINRTN                           *       - 002A2
+CLOSEUART                        *       - 00005 00365
+COORD2                           * 000C5 - 001B0
+COORDENADAS                      * 000BC - 000B6
+CUENTA                           * 002FE - 00353
+CUENTALINE                       * 0034F - 0032C
+
+DECREMENTO                       * 00270 - 00264 00285
+DESPLAZAMIENTO                   * 002D9 - 00293
+DOBINT                           *       - 00019 00023
+DOCODE                           *       - 00037
+DOCOL                            *       - 00000
+DROP                             *       - 00032 00356
+
+EJE                              * 00082 - 000B9
+
+GETPTRLOOP                       *       - 002B7
+
+INCREMENTO                       * 002BE - 00268 002D6
+
+LINEA                            * 00287 - 0026D
+LOOP1                            * 002A0 -
+
+MAKEGROB                         *       - 0002D
+MUL#                             *       - 0024E
+
+ON                               * 0029D - 001FE
+
+PRINCIPAL                        * 001BC - 00299
+
+RECLAIMDISP                      *       - 0000A 00360
+REINT                            * 002BC - 002B2
+
+SAVPTR                           *       - 00043
+SEMI                             *       - 0036A
+SIGUE                            * 001B3 - 001AD
+SIGUIENTE                        * 0032F - 00308
+
+TURNMENUOFF                      *       - 0000F
+TURNMENUON                       *       - 0035B
+
+/SLOAD:  End of Saturn Loader Execution

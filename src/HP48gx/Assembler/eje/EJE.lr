@@ -1,0 +1,49 @@
+Saturn Loader, Ver. version 3.0.8, 12/07/02
+
+
+Output Module:
+Module=EJE.o
+  Start=00000 End=00211 Length=00212   Symbols=  21 References=  25
+  Date=Mon Aug 20 20:41:40 2007   Title=
+
+
+Source modules:
+Module=EJE.o
+  Start=00000 End=00211 Length=00212
+  Date=Mon Aug 20 20:41:40 2007   Title=                                        Mon Aug 20 20:41:40 2007
+
+Saturn Cross Reference Listing
+
+ABUFF                            *       - 00014
+
+CINRTN                           *       - 001DD
+CLOSEUART                        *       - 00005 00208
+COORD2                           * 000B6 - 001CB
+COORDENADAS                      * 000AD - 000A7
+
+DOBINT                           *       - 00019 00023
+DOCODE                           *       - 00037
+DOCOL                            *       - 00000
+DROP                             *       - 00032 001F9
+
+EJE                              * 00073 - 000AA
+
+GETPTRLOOP                       *       - 001F2
+
+LOOP1                            * 001DB -
+
+MAKEGROB                         *       - 0002D
+
+ON                               * 001D8 - 001D0
+
+RECLAIMDISP                      *       - 0000A 00203
+REINT                            * 001F7 - 001ED
+
+SAVPTR                           *       - 00043
+SEMI                             *       - 0020D
+SIGUE                            * 001CE - 001C8 001D5
+
+TURNMENUOFF                      *       - 0000F
+TURNMENUON                       *       - 001FE
+
+/SLOAD:  End of Saturn Loader Execution

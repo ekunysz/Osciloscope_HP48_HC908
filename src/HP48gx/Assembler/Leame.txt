@@ -1,0 +1,2 @@
+Los archivos que hay que abrir para abrir los proyectos en
+Dbug4x son los de extension *.HPP
